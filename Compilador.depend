@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1477694676 source:d:\du\faculdade\ga eletrica\9 quadri\compiladores\projeto\compilador\src\analisador_lexico.c
+	<stdio.h>
+	<string.h>
+	"analisador_lexico.h"
+
+1477686895 source:d:\du\faculdade\ga eletrica\9 quadri\compiladores\projeto\compilador\src\principal.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"analisador_lexico.h"
+	"analisador_sintatico.h"
+	"constantes.h"
+
+1477665812 d:\du\faculdade\ga eletrica\9 quadri\compiladores\projeto\compilador\src\analisador_lexico.c
+	<stdio.h>
+	<string.h>
+
+1477668550 d:\du\faculdade\ga eletrica\9 quadri\compiladores\projeto\compilador\src\analisador_lexico.h
+
+1477683496 d:\du\faculdade\ga eletrica\9 quadri\compiladores\projeto\compilador\src\constantes.h
+
+1477694286 source:d:\du\faculdade\ga eletrica\9 quadri\compiladores\projeto\compilador\src\analisador_sintatico.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"analisador_lexico.h"
+	"constantes.h"
+
+1477686871 d:\du\faculdade\ga eletrica\9 quadri\compiladores\projeto\compilador\src\analisador_sintatico.h
+
