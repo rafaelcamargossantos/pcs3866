@@ -1,9 +1,0 @@
-if (a == b) {
-// asdasdasdasdasdas
-//as/d/asd/asd/asd
-sdf = 21.3243;
-/* asddasda * asdasd asd/ asd asd* a das* / asd asd*/
-	int x = 0.5;
-	aasdd /= xs0.5;
-	return 0;
-}

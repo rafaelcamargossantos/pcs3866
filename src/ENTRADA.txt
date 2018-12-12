@@ -1,21 +1,27 @@
 maine {
-	inte x;
-	floate y () {
-		returne -0.3 * 7 + 12;
-	}
-	stringe z (inte a, floate b) {
-		ife (a > b) {
-			returne "maior";
-		} elsee {
-			returne "menor";
+
+	inte fatorial (inte n) {
+
+		inte fat;
+
+		fat = 1;
+
+		whilee (n > 1) {
+
+			fat = fat * n;
+
+			n = n - 1;
+
 		}
+
+		returne fat;
+
 	}
 
+	inte x;
 
-	x = 0;
-	
-	whilee (x < 100 && !1 != 1 - 1) {
-		z(x, 4.2)
-	}
+	x = 5;
 
+	fatorial(x)
+}
 }
